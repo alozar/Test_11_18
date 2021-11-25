@@ -1,0 +1,10 @@
+﻿*.suo
+*.lock
+*.ide
+*.pubxml
+*.user
+*.dll
+*.pdb
+.vs/
+Test_11_18/bin/
+Test_11_18/obj/
